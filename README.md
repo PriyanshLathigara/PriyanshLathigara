@@ -4,10 +4,10 @@ Software Engineer focused on building scalable full-stack applications, backend 
 
 📍 Gujarat, India
 
-🌐 Portfolio: https://priyanshlathigara-portfolio.vercel.app/
-💼 LinkedIn: https://www.linkedin.com/in/priyansh-lathigara-8b4743342/
-📫 Email: phlathigara85@gmail.com
-💻 LeetCode: https://leetcode.com/u/Priyansh10/
+* 🌐 Portfolio: https://priyanshlathigara-portfolio.vercel.app/
+* 💼 LinkedIn: https://www.linkedin.com/in/priyansh-lathigara-8b4743342/
+* 📫 Email: phlathigara85@gmail.com
+* 💻 LeetCode: https://leetcode.com/u/Priyansh10/
 
 ## 🚀 What I Do
 
